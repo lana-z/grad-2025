@@ -1,4 +1,4 @@
-# Seth Robertson's Graduation Party Website (Class of 2025)
+# Graduation Party Website
 
 A simple, interactive website for a graduation party. Guests can view the invitation, RSVP, and leave messages on a public message board.
 
